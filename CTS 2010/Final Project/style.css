@@ -1,0 +1,46 @@
+body {
+    background-color: #c4ca9c;
+}
+
+h2{
+	font-family: Verdana, Arial;
+    font-size: 200%;
+    color: black;
+	text-align: center;	
+}
+
+h3{
+	font-family: Verdana, Arial;
+    font-size: 150%;
+    color: black;
+	text-align: center;	
+}
+
+p{
+    display: inline;
+
+	font-family: Verdana, Arial;
+    color: rgb(62, 62, 62);
+    font-size: 124%;
+
+}
+
+section{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+
+    padding-bottom: 14px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 8px;
+
+    text-indent: 5em;
+}
+
+iframe {
+  width: 80%;
+  aspect-ratio: 16 / 9;
+  border: 6px solid black;
+  position: center;
+}
